@@ -1,1 +1,2 @@
-olá git, irei descendar todos os seus misterios
+# aprimorando meus conhecimentos em git e github
+
